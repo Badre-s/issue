@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 # issue
 
 I like problems
